@@ -1,11 +1,12 @@
 streamlit==1.25.0
-tensorflow==2.19.0
+tensorflow==2.14.0
 scikit-learn==1.4.2
 pandas==2.2.2
 numpy==2.2.0
 matplotlib
 joblib
 imbalanced-learn
+
 
 # Optional / required for visuals, logs, or other components
 altair
@@ -14,4 +15,5 @@ jinja2
 requests
 protobuf
 pillow
+
 
