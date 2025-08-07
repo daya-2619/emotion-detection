@@ -48,7 +48,7 @@ emotion-detection-app/
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/<your-username>/emotion-detection-app.git
+   git clone https://github.com/daya-2619/emotion-detection.git
    cd emotion-detection-app
    ```
 
